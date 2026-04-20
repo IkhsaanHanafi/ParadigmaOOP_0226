@@ -20,5 +20,5 @@ int main(){
     mhs.nama = "ChocoCip";
     mhs.nilai = 90.5;
     mhs.printData();
-
+    return 0;
 }
