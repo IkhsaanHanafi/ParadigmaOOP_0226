@@ -19,7 +19,6 @@ int main(){
      mhs.nim = 2021;
     mhs.nama = "ChocoCip";
     mhs.nilai = 89.5;
-
     mhs.printData();
 
 }
