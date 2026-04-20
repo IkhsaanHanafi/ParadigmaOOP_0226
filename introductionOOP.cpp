@@ -2,7 +2,7 @@
 using namespace std;
 
 class Mahasiswa{
-public :
+public:
     int nim;
     string nama;
     float nilai;
@@ -12,4 +12,4 @@ public :
         cout << "Nama : " << nama << endl;
         cout << "Nilai : " << nilai << endl;
     }
-}
+};
