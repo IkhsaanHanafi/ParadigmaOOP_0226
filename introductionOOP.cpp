@@ -16,7 +16,7 @@ public:
 
 int main(){
     Mahasiswa mhs; //object
-     mhs.nim = 2021;
+     mhs.nim = 2024;
     mhs.nama = "ChocoCip";
     mhs.nilai = 90.5;
     mhs.printData();
